@@ -77,10 +77,8 @@ For more information
 Help and support
 ===============================================================================
 
-If you need help using this language pair or data, you can contact:
+See the file AUTHORS included in this distribution.
 
-* Mailing list: apertium-stuff@lists.sourceforge.net
-* IRC: #apertium on irc.freenode.net
-
-See also the file AUTHORS included in this distribution.
+Please consider citing this paper, if you use any part of the data or the models (bib file):
+Naeem Uddin and Jalal Uddin. 2019. A step towards Torwali machine translation: an analysis of morphosyntactic challenges in a low-resource language. In Proceedings of the 2nd Workshop on Technologies for MT of Low Resource Languages, pages 6–10, Dublin, Ireland. European Association for Machine Translation.
 
